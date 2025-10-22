@@ -114,11 +114,11 @@ if required_cols.issubset(data.columns):
         # Save to Excel
         pivot_table.to_excel(output_file)
 
-        print(f"✅ Done! Data for '{artist_name.title()}' saved to: {output_file}")
+        print(f"[SUCCESS] Done! Data for '{artist_name.title()}' saved to: {output_file}")
     else:
-        print(f"⚠️ No results found for artist: {artist_name}")
+        print(f"[WARNING] No results found for artist: {artist_name}")
 else:
-    print("❌ Missing required columns. Found columns:", data.columns.tolist())
+    print("[ERROR] Missing required columns. Found columns:", data.columns.tolist())
 ```
 
 3. Edit the `artist_name` variable (line 6) to analyze your desired artist
@@ -197,11 +197,11 @@ if required_cols.issubset(data.columns):
         # Save to Excel
         pivot_table.to_excel(output_file)
 
-        print(f"✅ Done! Radio chart data for '{artist_name.title()}' saved to: {output_file}")
+        print(f"[SUCCESS] Done! Radio chart data for '{artist_name.title()}' saved to: {output_file}")
     else:
-        print(f"⚠️ No results found for artist: {artist_name}")
+        print(f"[WARNING] No results found for artist: {artist_name}")
 else:
-    print("❌ Missing required columns. Found columns:", data.columns.tolist())
+    print("[ERROR] Missing required columns. Found columns:", data.columns.tolist())
 ```
 
 3. Edit the artist name and run:
@@ -278,11 +278,11 @@ if required_cols.issubset(data.columns):
         # Save to Excel
         pivot_table.to_excel(output_file)
 
-        print(f"✅ Done! Streaming chart data for '{artist_name.title()}' saved to: {output_file}")
+        print(f"[SUCCESS] Done! Streaming chart data for '{artist_name.title()}' saved to: {output_file}")
     else:
-        print(f"⚠️ No results found for artist: {artist_name}")
+        print(f"[WARNING] No results found for artist: {artist_name}")
 else:
-    print("❌ Missing required columns. Found columns:", data.columns.tolist())
+    print("[ERROR] Missing required columns. Found columns:", data.columns.tolist())
 ```
 
 3. Edit the artist name and run:
