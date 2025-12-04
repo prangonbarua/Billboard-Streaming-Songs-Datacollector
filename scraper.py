@@ -117,12 +117,21 @@ class BillboardScraper:
                     artist_elem = item.select_one('span.c-label.a-no-trucate')
                     artist = artist_elem.text.strip() if artist_elem else None
 
+                    # Get chart stats (last week, peak, weeks on chart)
+                    stat_spans = item.select('span.c-label.u-font-family-secondary\\@mobile-max')
+                    last_week = stat_spans[0].text.strip() if len(stat_spans) > 0 else None
+                    peak = stat_spans[1].text.strip() if len(stat_spans) > 1 else None
+                    weeks = stat_spans[2].text.strip() if len(stat_spans) > 2 else None
+
                     if rank and title and artist:
                         entries.append({
                             'date': chart_date,
                             'rank': rank,
                             'album': title,
-                            'artist': artist
+                            'artist': artist,
+                            'last_week': last_week if last_week and last_week != '-' else None,
+                            'peak_position': peak if peak and peak != '-' else None,
+                            'weeks_on_chart': weeks if weeks and weeks != '-' else None
                         })
                 except Exception as e:
                     print(f"  Error parsing entry: {e}")
