@@ -62,6 +62,9 @@ You can manually trigger the scraper from GitHub:
 - `rank`: Position on chart (1-200)
 - `album`: Album title
 - `artist`: Artist name
+- `last_week`: Previous week's position
+- `peak_position`: Highest position achieved
+- `weeks_on_chart`: Total weeks on chart
 
 ## Data Location
 
