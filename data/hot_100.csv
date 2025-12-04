@@ -1,0 +1,501 @@
+date,rank,song,artist,last_week,peak_position,weeks_on_chart
+2025-11-01,1,The Fate Of Ophelia,Taylor Swift,1,1,3
+2025-11-01,2,Golden,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",3,1,18
+2025-11-01,3,Ordinary,Alex Warren,4,1,37
+2025-11-01,4,Opalite,Taylor Swift,2,2,3
+2025-11-01,5,Elizabeth Taylor,Taylor Swift,5,3,3
+2025-11-01,6,Father Figure,Taylor Swift,6,4,3
+2025-11-01,7,Daisies,Justin Bieber,15,2,15
+2025-11-01,8,Man I Need,Olivia Dean,17,8,9
+2025-11-01,9,I Got Better,Morgan Wallen,16,7,23
+2025-11-01,10,Mutt,Leon Thomas,18,10,38
+2025-11-01,11,Wi$h Li$t,Taylor Swift,7,6,3
+2025-11-01,12,The Life Of A Showgirl,Taylor Swift Featuring Sabrina Carpenter,9,8,3
+2025-11-01,13,Wood,Taylor Swift,8,5,3
+2025-11-01,14,Folded,Kehlani,21,14,19
+2025-11-01,15,Actually Romantic,Taylor Swift,10,7,3
+2025-11-01,16,It Depends,Chris Brown Featuring Bryson Tiller,31,16,13
+2025-11-01,17,Your Idol,"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",20,4,18
+2025-11-01,18,Back To Friends,sombr,24,18,30
+2025-11-01,19,Cancelled!,Taylor Swift,11,10,3
+2025-11-01,20,Eldest Daughter,Taylor Swift,12,9,3
+2025-11-01,21,What I Want,Morgan Wallen Featuring Tate McRae,22,1,23
+2025-11-01,22,Ruin The Friendship,Taylor Swift,13,11,3
+2025-11-01,23,Soda Pop,"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",19,3,17
+2025-11-01,24,Love Me Not,Ravyn Lenae,23,5,30
+2025-11-01,25,Manchild,Sabrina Carpenter,26,1,20
+2025-11-01,26,Honey,Taylor Swift,14,12,3
+2025-11-01,27,Tears,Sabrina Carpenter,29,3,8
+2025-11-01,28,How It's Done,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",25,8,17
+2025-11-01,29,Tit For Tat,Tate McRae,27,3,4
+2025-11-01,30,Mystical Magical,Benson Boone,28,17,26
+2025-11-01,31,What It Sounds Like,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",30,15,17
+2025-11-01,32,Back In The Saddle,Luke Combs,34,32,13
+2025-11-01,33,Dracula,Tame Impala,59,33,4
+2025-11-01,34,Takedown,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",32,21,17
+2025-11-01,35,Free,Rumi & JINU: EJAE & Andrew Choi,33,23,17
+2025-11-01,36,Yukon,Justin Bieber,36,17,15
+2025-11-01,37,Burning Blue,Mariah the Scientist,35,25,25
+2025-11-01,38,Pixelated Kisses,Joji,90,38,2
+2025-11-01,39,Choosin' Texas,Ella Langley,,39,1
+2025-11-01,40,Gabriela,KATSEYE,41,40,14
+2025-11-01,41,Happen To Me,Russell Dickerson,40,28,27
+2025-11-01,42,No Broke Boys,Disco Lines & Tinashe,39,39,15
+2025-11-01,43,Shot Callin,YoungBoy Never Broke Again,44,43,6
+2025-11-01,44,So Easy (To Fall In Love),Olivia Dean,53,44,4
+2025-11-01,45,When Did You Get Hot?,Sabrina Carpenter,52,17,8
+2025-11-01,46,12 To 12,sombr,43,41,10
+2025-11-01,47,Wildflower,Billie Eilish,50,17,71
+2025-11-01,48,6 Months Later,Megan Moroney,46,30,18
+2025-11-01,49,Graveyard Whistling,Morgan Wallen,,49,1
+2025-11-01,50,Hell At Night,BigXthaPlug Featuring Ella Langley,49,35,11
+2025-11-01,51,Sugar On My Tongue,"Tyler, the Creator",42,41,14
+2025-11-01,52,Somewhere Over Laredo,Lainey Wilson,51,51,16
+2025-11-01,53,Jealous Type,Doja Cat,45,28,9
+2025-11-01,54,Don't Mind If I Do,Riley Green Featuring Ella Langley,58,54,12
+2025-11-01,55,House Again,Hudson Westbrook,47,47,27
+2025-11-01,56,My Old Ways,Tame Impala,,56,1
+2025-11-01,57,Safe,Cardi B Featuring Kehlani,48,26,5
+2025-11-01,58,Is It A Crime,Mariah the Scientist & Kali Uchis,55,55,11
+2025-11-01,59,wgft,Gunna Featuring Burna Boy,62,59,11
+2025-11-01,60,The Dead Dance,Lady Gaga,57,40,7
+2025-11-01,61,Darlin',Chase Matthew,64,61,5
+2025-11-01,62,Nice To Meet You,Myles Smith,65,62,20
+2025-11-01,63,Leavin,Rod Wave,68,63,2
+2025-11-01,64,Bottle Rockets,Scotty McCreery & Hootie & The Blowfish,56,32,18
+2025-11-01,65,Last One To Know,Gavin Adcock,54,54,10
+2025-11-01,66,Better Me For You (Brown Eyes),Max McNown,61,50,19
+2025-11-01,67,Where Is My Husband!,RAYE,70,67,4
+2025-11-01,68,The Subway,Chappell Roan,82,3,12
+2025-11-01,69,Strategy,Twice,63,51,14
+2025-11-01,70,Heart Of Stone,Jelly Roll,60,53,10
+2025-11-01,71,Take Me Thru Dere,"Metro Boomin, Quavo, Breskii & YKNIECE",75,71,4
+2025-11-01,72,Bar None,Jordan Davis,37,37,16
+2025-11-01,73,Went Legit,G Herbo,73,73,14
+2025-11-01,74,Takedown,"JEONGYEON, JIHYO & CHAEYOUNG Of TWICE",67,50,16
+2025-11-01,75,What You Is,YoungBoy Never Broke Again & Mellow Rackz,76,75,3
+2025-11-01,76,Maui Wowie,Kid Cudi,71,71,2
+2025-11-01,77,The Fall,Cody Johnson,78,77,4
+2025-11-01,78,Camera,Ed Sheeran,80,58,6
+2025-11-01,79,Wish,Diplo Featuring Trippie Redd,83,79,3
+2025-11-01,80,Sparks,Coldplay,74,74,15
+2025-11-01,81,What Kinda Man,Parker McCollum,84,81,6
+2025-11-01,82,Nobody's Son,Sabrina Carpenter,87,12,8
+2025-11-01,83,Sienna,The Marias,81,74,7
+2025-11-01,84,ErrTime,Cardi B,69,43,5
+2025-11-01,85,Amen,Shaboozey & Jelly Roll,88,56,24
+2025-11-01,86,Outside,Cardi B,86,10,18
+2025-11-01,87,Eternity,Alex Warren,85,16,14
+2025-11-01,88,Nice To Each Other,Olivia Dean,,88,2
+2025-11-01,89,Breakin' Dishes,Rihanna,91,82,6
+2025-11-01,90,How Far Does A Goodbye Go,Jason Aldean,,88,2
+2025-11-01,91,Loser,Tame Impala,,91,1
+2025-11-01,92,Dusty Bibles,Josiah Queen,,92,1
+2025-11-01,93,Let Down,Radiohead,92,91,9
+2025-11-01,94,"3,2,1",Tucker Wetmore,,94,2
+2025-11-01,95,Heavens To Betsy,Jackson Dean,,95,1
+2025-11-01,96,Shake It To The Max (Fly),"MOLIY, Silent Addy, Skillibeng & Shenseea",99,44,20
+2025-11-01,97,Gnarly,KATSEYE,98,90,11
+2025-11-01,98,What An Awesome God,Phil Wickham,96,96,3
+2025-11-01,99,Holy Water,Marshmello x Jelly Roll,79,79,5
+2025-11-01,100,3am,Loe Shimmy & Don Toliver,,100,1
+2025-11-08,1,The Fate Of Ophelia,Taylor Swift,1,1,4
+2025-11-08,2,Golden,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",2,1,19
+2025-11-08,3,Ordinary,Alex Warren,3,1,38
+2025-11-08,4,Opalite,Taylor Swift,4,2,4
+2025-11-08,5,Man I Need,Olivia Dean,8,5,10
+2025-11-08,6,Daisies,Justin Bieber,7,2,16
+2025-11-08,7,Folded,Kehlani,14,7,20
+2025-11-08,8,Elizabeth Taylor,Taylor Swift,5,3,4
+2025-11-08,9,I Got Better,Morgan Wallen,9,7,24
+2025-11-08,10,Mutt,Leon Thomas,10,10,39
+2025-11-08,11,Father Figure,Taylor Swift,6,4,4
+2025-11-08,12,Back To Friends,sombr,18,12,31
+2025-11-08,13,Your Idol,"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",17,4,19
+2025-11-08,14,Wi$h Li$t,Taylor Swift,11,6,4
+2025-11-08,15,What I Want,Morgan Wallen Featuring Tate McRae,21,1,24
+2025-11-08,16,Manchild,Sabrina Carpenter,25,1,21
+2025-11-08,17,Love Me Not,Ravyn Lenae,24,5,31
+2025-11-08,18,Soda Pop,"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",23,3,18
+2025-11-08,19,It Depends,Chris Brown Featuring Bryson Tiller,16,16,14
+2025-11-08,20,Tears,Sabrina Carpenter,27,3,9
+2025-11-08,21,The Life Of A Showgirl,Taylor Swift Featuring Sabrina Carpenter,12,8,4
+2025-11-08,22,Back In The Saddle,Luke Combs,32,22,14
+2025-11-08,23,How It's Done,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",28,8,18
+2025-11-08,24,Wood,Taylor Swift,13,5,4
+2025-11-08,25,Actually Romantic,Taylor Swift,15,7,4
+2025-11-08,26,Mystical Magical,Benson Boone,30,17,27
+2025-11-08,27,Tit For Tat,Tate McRae,29,3,5
+2025-11-08,28,Cancelled!,Taylor Swift,19,10,4
+2025-11-08,29,Eldest Daughter,Taylor Swift,20,9,4
+2025-11-08,30,What It Sounds Like,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",31,15,18
+2025-11-08,31,Ruin The Friendship,Taylor Swift,22,11,4
+2025-11-08,32,Thriller,Michael Jackson,,4,25
+2025-11-08,33,Honey,Taylor Swift,26,12,4
+2025-11-08,34,Burning Blue,Mariah the Scientist,37,25,26
+2025-11-08,35,Choosin' Texas,Ella Langley,39,35,2
+2025-11-08,36,Takedown,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",34,21,18
+2025-11-08,37,Gabriela,KATSEYE,40,37,15
+2025-11-08,38,Lover Girl,Megan Thee Stallion,,38,1
+2025-11-08,39,Dracula,Tame Impala,33,33,5
+2025-11-08,40,Free,Rumi & JINU: EJAE & Andrew Choi,35,23,18
+2025-11-08,41,No Broke Boys,Disco Lines & Tinashe,42,39,16
+2025-11-08,42,Happen To Me,Russell Dickerson,41,28,28
+2025-11-08,43,Yukon,Justin Bieber,36,17,16
+2025-11-08,44,So Easy (To Fall In Love),Olivia Dean,44,44,5
+2025-11-08,45,Don't Mind If I Do,Riley Green Featuring Ella Langley,54,45,13
+2025-11-08,46,6 Months Later,Megan Moroney,48,30,19
+2025-11-08,47,This Is Halloween,The Citizens of Halloween,,38,3
+2025-11-08,48,Shot Callin,YoungBoy Never Broke Again,43,43,7
+2025-11-08,49,Somewhere Over Laredo,Lainey Wilson,52,49,17
+2025-11-08,50,Spaghetti,Le Sserafim & J-Hope,,50,1
+2025-11-08,51,Wildflower,Billie Eilish,47,17,72
+2025-11-08,52,Hell At Night,BigXthaPlug Featuring Ella Langley,50,35,12
+2025-11-08,53,Is It A Crime,Mariah the Scientist & Kali Uchis,58,53,12
+2025-11-08,54,Jealous Type,Doja Cat,53,28,10
+2025-11-08,55,wgft,Gunna Featuring Burna Boy,59,55,12
+2025-11-08,56,Safe,Cardi B Featuring Kehlani,57,26,6
+2025-11-08,57,Darlin',Chase Matthew,61,57,6
+2025-11-08,58,Sugar On My Tongue,"Tyler, the Creator",51,41,15
+2025-11-08,59,12 To 12,sombr,46,41,11
+2025-11-08,60,House Again,Hudson Westbrook,55,47,28
+2025-11-08,61,The Dead Dance,Lady Gaga,60,40,8
+2025-11-08,62,When Did You Get Hot?,Sabrina Carpenter,45,17,9
+2025-11-08,63,Nice To Meet You,Myles Smith,62,62,21
+2025-11-08,64,Beautiful Things,Megan Moroney,,64,1
+2025-11-08,65,Last One To Know,Gavin Adcock,65,54,11
+2025-11-08,66,I'm Not There For You,jessie murph,,66,1
+2025-11-08,67,Better Me For You (Brown Eyes),Max McNown,66,50,20
+2025-11-08,68,Bottle Rockets,Scotty McCreery & Hootie & The Blowfish,64,32,19
+2025-11-08,69,Heart Of Stone,Jelly Roll,70,53,11
+2025-11-08,70,Where Is My Husband!,RAYE,67,67,5
+2025-11-08,71,Take Me Thru Dere,"Metro Boomin, Quavo, Breskii & YKNIECE",71,71,5
+2025-11-08,72,Strategy,Twice,69,51,15
+2025-11-08,73,The Fall,Cody Johnson,77,73,5
+2025-11-08,74,Sparks,Coldplay,80,74,16
+2025-11-08,75,What Kinda Man,Parker McCollum,81,75,7
+2025-11-08,76,Went Legit,G Herbo,73,73,15
+2025-11-08,77,20 Cigarettes,Morgan Wallen,,20,23
+2025-11-08,78,What You Is,YoungBoy Never Broke Again & Mellow Rackz,75,75,4
+2025-11-08,79,Camera,Ed Sheeran,78,58,7
+2025-11-08,80,Takedown,"JEONGYEON, JIHYO & CHAEYOUNG Of TWICE",74,50,17
+2025-11-08,81,Nobody's Son,Sabrina Carpenter,82,12,9
+2025-11-08,82,Bar None,Jordan Davis,72,37,17
+2025-11-08,83,Sienna,The Marias,83,74,8
+2025-11-08,84,Wish,Diplo Featuring Trippie Redd,79,79,4
+2025-11-08,85,Pixelated Kisses,Joji,38,38,3
+2025-11-08,86,Amen,Shaboozey & Jelly Roll,85,56,25
+2025-11-08,87,A Couple Minutes,Olivia Dean,,87,1
+2025-11-08,88,How Far Does A Goodbye Go,Jason Aldean,90,88,3
+2025-11-08,89,Heavens To Betsy,Jackson Dean,95,89,2
+2025-11-08,90,Breakin' Dishes,Rihanna,89,82,7
+2025-11-08,91,Maui Wowie,Kid Cudi,76,71,3
+2025-11-08,92,"3,2,1",Tucker Wetmore,94,92,3
+2025-11-08,93,ErrTime,Cardi B,84,43,6
+2025-11-08,94,Nice To Each Other,Olivia Dean,88,88,3
+2025-11-08,95,The Subway,Chappell Roan,68,3,13
+2025-11-08,96,Amor,Emmanuel Cortes,,96,1
+2025-11-08,97,Let Down,Radiohead,93,91,10
+2025-11-08,98,I Ain't Coming Back,Morgan Wallen Featuring Post Malone,,8,23
+2025-11-08,99,Outside,Cardi B,86,10,19
+2025-11-08,100,Favorite Country Song,HARDY,,100,1
+2025-11-15,1,The Fate Of Ophelia,Taylor Swift,1,1,5
+2025-11-15,2,Golden,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",2,1,20
+2025-11-15,3,Ordinary,Alex Warren,3,1,39
+2025-11-15,4,Opalite,Taylor Swift,4,2,5
+2025-11-15,5,Man I Need,Olivia Dean,5,5,11
+2025-11-15,6,Daisies,Justin Bieber,6,2,17
+2025-11-15,7,Folded,Kehlani,7,7,21
+2025-11-15,8,Mutt,Leon Thomas,10,8,40
+2025-11-15,9,I Got Better,Morgan Wallen,9,7,25
+2025-11-15,10,Thriller,Michael Jackson,32,4,26
+2025-11-15,11,Back To Friends,sombr,12,11,32
+2025-11-15,12,Soda Pop,"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",18,3,19
+2025-11-15,13,Elizabeth Taylor,Taylor Swift,8,3,5
+2025-11-15,14,Your Idol,"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",13,4,20
+2025-11-15,15,What I Want,Morgan Wallen Featuring Tate McRae,15,1,25
+2025-11-15,16,It Depends,Chris Brown Featuring Bryson Tiller,19,16,15
+2025-11-15,17,Tears,Sabrina Carpenter,20,3,10
+2025-11-15,18,Manchild,Sabrina Carpenter,16,1,22
+2025-11-15,19,Love Me Not,Ravyn Lenae,17,5,32
+2025-11-15,20,Father Figure,Taylor Swift,11,4,5
+2025-11-15,21,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",,1,42
+2025-11-15,22,Ghostbusters,Ray Parker Jr.,,1,26
+2025-11-15,23,How It's Done,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",23,8,19
+2025-11-15,24,Somebody's Watching Me,Rockwell,,2,22
+2025-11-15,25,Choosin' Texas,Ella Langley,35,25,3
+2025-11-15,26,This Is Halloween,The Citizens of Halloween,47,26,4
+2025-11-15,27,Tit For Tat,Tate McRae,27,3,6
+2025-11-15,28,Wi$h Li$t,Taylor Swift,14,6,5
+2025-11-15,29,What It Sounds Like,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",30,15,19
+2025-11-15,30,Dracula,Tame Impala,39,30,6
+2025-11-15,31,All I Want For Christmas Is You,Mariah Carey,,1,72
+2025-11-15,32,The Life Of A Showgirl,Taylor Swift Featuring Sabrina Carpenter,21,8,5
+2025-11-15,33,Gabriela,KATSEYE,37,33,16
+2025-11-15,34,Happen To Me,Russell Dickerson,42,28,29
+2025-11-15,35,Takedown,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",36,21,19
+2025-11-15,36,No Broke Boys,Disco Lines & Tinashe,41,36,17
+2025-11-15,37,Wood,Taylor Swift,24,5,5
+2025-11-15,38,Actually Romantic,Taylor Swift,25,7,5
+2025-11-15,39,Free,Rumi & JINU: EJAE & Andrew Choi,40,23,19
+2025-11-15,40,Back In The Saddle,Luke Combs,22,22,15
+2025-11-15,41,Cancelled!,Taylor Swift,28,10,5
+2025-11-15,42,6 Months Later,Megan Moroney,46,30,20
+2025-11-15,43,Last Christmas,Wham!,,3,46
+2025-11-15,44,Don't Mind If I Do,Riley Green Featuring Ella Langley,45,44,14
+2025-11-15,45,Yukon,Justin Bieber,43,17,17
+2025-11-15,46,So Easy (To Fall In Love),Olivia Dean,44,44,6
+2025-11-15,47,Shot Callin,YoungBoy Never Broke Again,48,43,8
+2025-11-15,48,Somewhere Over Laredo,Lainey Wilson,49,48,18
+2025-11-15,49,Eldest Daughter,Taylor Swift,29,9,5
+2025-11-15,50,wgft,Gunna Featuring Burna Boy,55,50,13
+2025-11-15,51,Ruin The Friendship,Taylor Swift,31,11,5
+2025-11-15,52,Hell At Night,BigXthaPlug Featuring Ella Langley,52,35,13
+2025-11-15,53,Is It A Crime,Mariah the Scientist & Kali Uchis,53,53,13
+2025-11-15,54,House Again,Hudson Westbrook,60,47,29
+2025-11-15,55,Honey,Taylor Swift,33,12,5
+2025-11-15,56,Darlin',Chase Matthew,57,56,7
+2025-11-15,57,The Dead Dance,Lady Gaga,61,40,9
+2025-11-15,58,Jealous Type,Doja Cat,54,28,11
+2025-11-15,59,Safe,Cardi B Featuring Kehlani,56,26,7
+2025-11-15,60,Better Me For You (Brown Eyes),Max McNown,67,50,21
+2025-11-15,61,Nice To Meet You,Myles Smith,63,61,22
+2025-11-15,62,20 Cigarettes,Morgan Wallen,77,20,24
+2025-11-15,63,Last One To Know,Gavin Adcock,65,54,12
+2025-11-15,64,Sugar On My Tongue,"Tyler, the Creator",58,41,16
+2025-11-15,65,Where Is My Husband!,RAYE,70,65,6
+2025-11-15,66,12 To 12,sombr,59,41,12
+2025-11-15,67,When Did You Get Hot?,Sabrina Carpenter,62,17,10
+2025-11-15,68,Camera,Ed Sheeran,79,58,8
+2025-11-15,69,Take Me Thru Dere,"Metro Boomin, Quavo, Breskii & YKNIECE",71,69,6
+2025-11-15,70,The Fall,Cody Johnson,73,70,6
+2025-11-15,71,Heavens To Betsy,Jackson Dean,89,71,3
+2025-11-15,72,Bottle Rockets,Scotty McCreery & Hootie & The Blowfish,68,32,20
+2025-11-15,73,Strategy,Twice,72,51,16
+2025-11-15,74,What Kinda Man,Parker McCollum,75,74,8
+2025-11-15,75,Heart Of Stone,Jelly Roll,69,53,12
+2025-11-15,76,Sparks,Coldplay,74,74,17
+2025-11-15,77,Takedown,"JEONGYEON, JIHYO & CHAEYOUNG Of TWICE",80,50,18
+2025-11-15,78,Went Legit,G Herbo,76,73,16
+2025-11-15,79,Days Like These,Luke Combs,,79,2
+2025-11-15,80,Lover Girl,Megan Thee Stallion,38,38,2
+2025-11-15,81,What You Is,YoungBoy Never Broke Again & Mellow Rackz,78,75,5
+2025-11-15,82,Amen,Shaboozey & Jelly Roll,86,56,26
+2025-11-15,83,A Couple Minutes,Olivia Dean,87,83,2
+2025-11-15,84,How Far Does A Goodbye Go,Jason Aldean,88,84,4
+2025-11-15,85,Beautiful Things,Megan Moroney,64,64,2
+2025-11-15,86,Sienna,The Marias,83,74,9
+2025-11-15,87,Bar None,Jordan Davis,82,37,18
+2025-11-15,88,Nobody's Son,Sabrina Carpenter,81,12,10
+2025-11-15,89,Spaghetti,Le Sserafim & J-Hope,50,50,2
+2025-11-15,90,Favorite Country Song,HARDY,100,90,2
+2025-11-15,91,I Ain't Coming Back,Morgan Wallen Featuring Post Malone,98,8,24
+2025-11-15,92,Wish,Diplo Featuring Trippie Redd,84,79,5
+2025-11-15,93,Come N Go,Yeat,,93,1
+2025-11-15,94,"3,2,1",Tucker Wetmore,92,92,4
+2025-11-15,95,I'm Not There For You,jessie murph,66,66,2
+2025-11-15,96,Breakin' Dishes,Rihanna,90,82,8
+2025-11-15,97,Shake It To The Max (Fly),"MOLIY, Silent Addy, Skillibeng & Shenseea",,44,21
+2025-11-15,98,Let Down,Radiohead,97,91,11
+2025-11-15,99,3am,Loe Shimmy & Don Toliver,,99,2
+2025-11-15,100,Nice To Each Other,Olivia Dean,94,88,4
+2025-11-22,1,The Fate Of Ophelia,Taylor Swift,1,1,6
+2025-11-22,2,Golden,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",2,1,21
+2025-11-22,3,Ordinary,Alex Warren,3,1,40
+2025-11-22,4,Man I Need,Olivia Dean,5,4,12
+2025-11-22,5,Opalite,Taylor Swift,4,2,6
+2025-11-22,6,Daisies,Justin Bieber,6,2,18
+2025-11-22,7,Mutt,Leon Thomas,8,7,41
+2025-11-22,8,Folded,Kehlani,7,7,22
+2025-11-22,9,I Got Better,Morgan Wallen,9,7,26
+2025-11-22,10,Back To Friends,sombr,11,10,33
+2025-11-22,11,All I Want For Christmas Is You,Mariah Carey,31,1,73
+2025-11-22,12,Travelin' Soldier,Cody Johnson,,12,1
+2025-11-22,13,Last Christmas,Wham!,43,3,47
+2025-11-22,14,What I Want,Morgan Wallen Featuring Tate McRae,15,1,26
+2025-11-22,15,Soda Pop,"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",12,3,20
+2025-11-22,16,It Depends,Chris Brown Featuring Bryson Tiller,16,16,16
+2025-11-22,17,Elizabeth Taylor,Taylor Swift,13,3,6
+2025-11-22,18,Tears,Sabrina Carpenter,17,3,11
+2025-11-22,19,Rockin' Around The Christmas Tree,Brenda Lee,,1,65
+2025-11-22,20,Jingle Bell Rock,Bobby Helms,,3,62
+2025-11-22,21,Choosin' Texas,Ella Langley,25,21,4
+2025-11-22,22,Love Me Not,Ravyn Lenae,19,5,33
+2025-11-22,23,Manchild,Sabrina Carpenter,18,1,23
+2025-11-22,24,Your Idol,"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",14,4,21
+2025-11-22,25,Tit For Tat,Tate McRae,27,3,7
+2025-11-22,26,Wi$h Li$t,Taylor Swift,28,6,6
+2025-11-22,27,How It's Done,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",23,8,20
+2025-11-22,28,Father Figure,Taylor Swift,20,4,6
+2025-11-22,29,So Easy (To Fall In Love),Olivia Dean,46,29,7
+2025-11-22,30,Santa Tell Me,Ariana Grande,,5,30
+2025-11-22,31,Gabriela,KATSEYE,33,31,17
+2025-11-22,32,What It Sounds Like,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",29,15,20
+2025-11-22,33,The Life Of A Showgirl,Taylor Swift Featuring Sabrina Carpenter,32,8,6
+2025-11-22,34,Don't Mind If I Do,Riley Green Featuring Ella Langley,44,34,15
+2025-11-22,35,Happen To Me,Russell Dickerson,34,28,30
+2025-11-22,36,No Broke Boys,Disco Lines & Tinashe,36,36,18
+2025-11-22,37,6 Months Later,Megan Moroney,42,30,21
+2025-11-22,38,Dracula,Tame Impala,30,30,7
+2025-11-22,39,Somewhere Over Laredo,Lainey Wilson,48,39,19
+2025-11-22,40,wgft,Gunna Featuring Burna Boy,50,40,14
+2025-11-22,41,Underneath The Tree,Kelly Clarkson,,9,33
+2025-11-22,42,Ruin The Friendship,Taylor Swift,51,11,6
+2025-11-22,43,Takedown,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",35,21,20
+2025-11-22,44,Free,Rumi & JINU: EJAE & Andrew Choi,39,23,20
+2025-11-22,45,Is It A Crime,Mariah the Scientist & Kali Uchis,53,45,14
+2025-11-22,46,Hell At Night,BigXthaPlug Featuring Ella Langley,52,35,14
+2025-11-22,47,It's The Most Wonderful Time Of The Year,Andy Williams,,5,46
+2025-11-22,48,It's Beginning To Look A Lot Like Christmas,Michael Buble,,12,25
+2025-11-22,49,Yukon,Justin Bieber,45,17,18
+2025-11-22,50,The Christmas Song (Merry Christmas To You),"Nat ""King"" Cole",,9,50
+2025-11-22,51,Shot Callin,YoungBoy Never Broke Again,47,43,9
+2025-11-22,52,Darlin',Chase Matthew,56,52,8
+2025-11-22,53,House Again,Hudson Westbrook,54,47,30
+2025-11-22,54,Nice To Meet You,Myles Smith,61,54,23
+2025-11-22,55,20 Cigarettes,Morgan Wallen,62,20,25
+2025-11-22,56,Jealous Type,Doja Cat,58,28,12
+2025-11-22,57,Eldest Daughter,Taylor Swift,49,9,6
+2025-11-22,58,Where Is My Husband!,RAYE,65,58,7
+2025-11-22,59,Back In The Saddle,Luke Combs,40,22,16
+2025-11-22,60,Wood,Taylor Swift,37,5,6
+2025-11-22,61,Actually Romantic,Taylor Swift,38,7,6
+2025-11-22,62,Better Me For You (Brown Eyes),Max McNown,60,50,22
+2025-11-22,63,Out The Window,Kehlani,,63,1
+2025-11-22,64,Cancelled!,Taylor Swift,41,10,6
+2025-11-22,65,Last One To Know,Gavin Adcock,63,54,13
+2025-11-22,66,12 To 12,sombr,66,41,13
+2025-11-22,67,Safe,Cardi B Featuring Kehlani,59,26,8
+2025-11-22,68,The Fall,Cody Johnson,70,68,7
+2025-11-22,69,Sugar On My Tongue,"Tyler, the Creator",64,41,17
+2025-11-22,70,Went Legit,G Herbo,78,70,17
+2025-11-22,71,Honey,Taylor Swift,55,12,6
+2025-11-22,72,A Couple Minutes,Olivia Dean,83,72,3
+2025-11-22,73,Take Me Thru Dere,"Metro Boomin, Quavo, Breskii & YKNIECE",69,69,7
+2025-11-22,74,When Did You Get Hot?,Sabrina Carpenter,67,17,11
+2025-11-22,75,The Dead Dance,Lady Gaga,57,40,10
+2025-11-22,76,Sparks,Coldplay,76,74,18
+2025-11-22,77,Camera,Ed Sheeran,68,58,9
+2025-11-22,78,What Kinda Man,Parker McCollum,74,74,9
+2025-11-22,79,Past Won't Leave My Bed,Joji,,79,1
+2025-11-22,80,How Far Does A Goodbye Go,Jason Aldean,84,80,5
+2025-11-22,81,Days Like These,Luke Combs,79,79,3
+2025-11-22,82,La Perla,ROSALIA & Yahritza y Su Esencia,,82,1
+2025-11-22,83,Heart Of Stone,Jelly Roll,75,53,13
+2025-11-22,84,Amen,Shaboozey & Jelly Roll,82,56,27
+2025-11-22,85,What You Is,YoungBoy Never Broke Again & Mellow Rackz,81,75,6
+2025-11-22,86,Sienna,The Marias,86,74,10
+2025-11-22,87,Strategy,Twice,73,51,17
+2025-11-22,88,ErrTime,Cardi B,,43,7
+2025-11-22,89,Beautiful Things,Megan Moroney,85,64,3
+2025-11-22,90,Favorite Country Song,HARDY,90,90,3
+2025-11-22,91,Nice To Each Other,Olivia Dean,100,88,5
+2025-11-22,92,Takedown,"JEONGYEON, JIHYO & CHAEYOUNG Of TWICE",77,50,19
+2025-11-22,93,Amor,Emmanuel Cortes,,93,2
+2025-11-22,94,Let Down,Radiohead,98,91,12
+2025-11-22,95,"3,2,1",Tucker Wetmore,94,92,5
+2025-11-22,96,Come N Go,Yeat,93,93,2
+2025-11-22,97,Pixelated Kisses,Joji,,38,4
+2025-11-22,98,Nobody's Son,Sabrina Carpenter,88,12,11
+2025-11-22,99,I Ain't Coming Back,Morgan Wallen Featuring Post Malone,91,8,25
+2025-11-22,100,3am,Loe Shimmy & Don Toliver,99,99,3
+2025-11-29,1,The Fate Of Ophelia,Taylor Swift,1,1,7
+2025-11-29,2,Golden,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",2,1,22
+2025-11-29,3,Ordinary,Alex Warren,3,1,41
+2025-11-29,4,Man I Need,Olivia Dean,4,4,13
+2025-11-29,5,Opalite,Taylor Swift,5,2,7
+2025-11-29,6,Mutt,Leon Thomas,7,6,42
+2025-11-29,7,Daisies,Justin Bieber,6,2,19
+2025-11-29,8,All I Want For Christmas Is You,Mariah Carey,11,1,74
+2025-11-29,9,Folded,Kehlani,8,7,23
+2025-11-29,10,I Got Better,Morgan Wallen,9,7,27
+2025-11-29,11,Last Christmas,Wham!,13,3,48
+2025-11-29,12,Back To Friends,sombr,10,10,34
+2025-11-29,13,Rockin' Around The Christmas Tree,Brenda Lee,19,1,66
+2025-11-29,14,Jingle Bell Rock,Bobby Helms,20,3,63
+2025-11-29,15,What I Want,Morgan Wallen Featuring Tate McRae,14,1,27
+2025-11-29,16,Choosin' Texas,Ella Langley,21,16,5
+2025-11-29,17,It Depends,Chris Brown Featuring Bryson Tiller,16,16,17
+2025-11-29,18,So Easy (To Fall In Love),Olivia Dean,29,18,8
+2025-11-29,19,Santa Tell Me,Ariana Grande,30,5,31
+2025-11-29,20,Manchild,Sabrina Carpenter,23,1,24
+2025-11-29,21,Soda Pop,"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",15,3,21
+2025-11-29,22,Tears,Sabrina Carpenter,18,3,12
+2025-11-29,23,Love Me Not,Ravyn Lenae,22,5,34
+2025-11-29,24,Your Idol,"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",24,4,22
+2025-11-29,25,Travelin' Soldier,Cody Johnson,12,12,2
+2025-11-29,26,Tit For Tat,Tate McRae,25,3,8
+2025-11-29,27,Underneath The Tree,Kelly Clarkson,41,9,34
+2025-11-29,28,Elizabeth Taylor,Taylor Swift,17,3,7
+2025-11-29,29,The Christmas Song (Merry Christmas To You),"Nat ""King"" Cole",50,9,51
+2025-11-29,30,It's The Most Wonderful Time Of The Year,Andy Williams,47,5,47
+2025-11-29,31,Gabriela,KATSEYE,31,31,18
+2025-11-29,32,It's Beginning To Look A Lot Like Christmas,Michael Buble,48,12,26
+2025-11-29,33,Don't Mind If I Do,Riley Green Featuring Ella Langley,34,33,16
+2025-11-29,34,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,,7,37
+2025-11-29,35,Fear,NF,,35,1
+2025-11-29,36,How It's Done,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",27,8,21
+2025-11-29,37,Sleigh Ride,The Ronettes,,8,34
+2025-11-29,38,6 Months Later,Megan Moroney,37,30,22
+2025-11-29,39,Somewhere Over Laredo,Lainey Wilson,39,39,20
+2025-11-29,40,A Holly Jolly Christmas,Burl Ives,,4,46
+2025-11-29,41,No Broke Boys,Disco Lines & Tinashe,36,36,19
+2025-11-29,42,What It Sounds Like,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",32,15,21
+2025-11-29,43,Happen To Me,Russell Dickerson,35,28,31
+2025-11-29,44,Wi$h Li$t,Taylor Swift,26,6,7
+2025-11-29,45,wgft,Gunna Featuring Burna Boy,40,40,15
+2025-11-29,46,Father Figure,Taylor Swift,28,4,7
+2025-11-29,47,Where Is My Husband!,RAYE,58,47,8
+2025-11-29,48,Christmas (Baby Please Come Home),Darlene Love,,15,27
+2025-11-29,49,Feliz Navidad,Jose Feliciano,,6,38
+2025-11-29,50,20 Cigarettes,Morgan Wallen,55,20,26
+2025-11-29,51,Hell At Night,BigXthaPlug Featuring Ella Langley,46,35,15
+2025-11-29,52,Yukon,Justin Bieber,49,17,19
+2025-11-29,53,Dracula,Tame Impala,38,30,8
+2025-11-29,54,Is It A Crime,Mariah the Scientist & Kali Uchis,45,45,15
+2025-11-29,55,A Couple Minutes,Olivia Dean,72,55,4
+2025-11-29,56,Nice To Meet You,Myles Smith,54,54,24
+2025-11-29,57,House Again,Hudson Westbrook,53,47,31
+2025-11-29,58,Robbed You,Summer Walker & Mariah the Scientist,,58,1
+2025-11-29,59,Darlin',Chase Matthew,52,52,9
+2025-11-29,60,Go Girl,"Summer Walker, Latto & Doja Cat",,60,1
+2025-11-29,61,Shot Callin,YoungBoy Never Broke Again,51,43,10
+2025-11-29,62,Who I Was,NF & MGK,,62,1
+2025-11-29,63,Better Me For You (Brown Eyes),Max McNown,62,50,23
+2025-11-29,64,The Life Of A Showgirl,Taylor Swift Featuring Sabrina Carpenter,33,8,7
+2025-11-29,65,Back In The Saddle,Luke Combs,59,22,17
+2025-11-29,66,ErrTime,Cardi B,88,43,8
+2025-11-29,67,Jealous Type,Doja Cat,56,28,13
+2025-11-29,68,Baby,Summer Walker & Chris Brown,,68,1
+2025-11-29,69,No,Summer Walker,,69,1
+2025-11-29,70,Sorry,NF With James Arthur,,70,1
+2025-11-29,71,Last One To Know,Gavin Adcock,65,54,14
+2025-11-29,72,12 To 12,sombr,66,41,14
+2025-11-29,73,Sugar On My Tongue,"Tyler, the Creator",69,41,18
+2025-11-29,74,Take Me Thru Dere,"Metro Boomin, Quavo, Breskii & YKNIECE",73,69,8
+2025-11-29,75,The Fall,Cody Johnson,68,68,8
+2025-11-29,76,Ruin The Friendship,Taylor Swift,42,11,7
+2025-11-29,77,Wood,Taylor Swift,60,5,7
+2025-11-29,78,Actually Romantic,Taylor Swift,61,7,7
+2025-11-29,79,FMT,Summer Walker,,79,1
+2025-11-29,80,1-800 Heartbreak,Summer Walker & Anderson .Paak,,80,1
+2025-11-29,81,Eldest Daughter,Taylor Swift,57,9,7
+2025-11-29,82,Nice To Each Other,Olivia Dean,91,82,6
+2025-11-29,83,What Kinda Man,Parker McCollum,78,74,10
+2025-11-29,84,Went Legit,G Herbo,70,70,18
+2025-11-29,85,Give Me A Reason,NF,,85,1
+2025-11-29,86,Home,NF,,86,1
+2025-11-29,87,Safe,Cardi B Featuring Kehlani,67,26,9
+2025-11-29,88,Sparks,Coldplay,76,74,19
+2025-11-29,89,Cancelled!,Taylor Swift,64,10,7
+2025-11-29,90,The Dead Dance,Lady Gaga,75,40,11
+2025-11-29,91,When Did You Get Hot?,Sabrina Carpenter,74,17,12
+2025-11-29,92,Sienna,The Marias,86,74,11
+2025-11-29,93,Camera,Ed Sheeran,77,58,10
+2025-11-29,94,Days Like These,Luke Combs,81,79,4
+2025-11-29,95,Amen,Shaboozey & Jelly Roll,84,56,28
+2025-11-29,96,Baller,"Summer Walker, Glorilla, Sexyy Red & Monaleo",,96,1
+2025-11-29,97,Let Alone The One You Love,Olivia Dean,,97,1
+2025-11-29,98,Losin' Streak,Blake Roman,,98,1
+2025-11-29,99,Favorite Country Song,HARDY,90,90,4
+2025-11-29,100,How Far Does A Goodbye Go,Jason Aldean,80,80,6

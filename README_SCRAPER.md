@@ -1,16 +1,16 @@
-# Billboard Chart Data Collector
+# Billboard Chart Scraper
 
-Automated web scraper that collects Billboard Hot 100 (songs) and Billboard 200 (albums) chart data directly from Billboard.com and updates automatically every Wednesday.
+Automated web scraper that collects Billboard Hot 100 (songs) and Billboard 200 (albums) chart data directly from Billboard.com.
 
 ## Features
 
-- Scrapes Billboard Hot 100 and Billboard 200 charts from Billboard.com
-- Stores historical data in CSV format
+- Scrapes Billboard Hot 100 and Billboard 200 charts
+- Stores data in CSV format
 - Automatic weekly updates via GitHub Actions (every Wednesday at 00:00 UTC)
-- Can backfill historical data for any date range
-- Automatic deduplication of entries
+- Can backfill historical data
+- Deduplicates entries automatically
 
-## Quick Start
+## Setup
 
 ### 1. Install Dependencies
 
@@ -32,7 +32,7 @@ python scraper.py --weeks 4
 
 #### Scrape Specific Date Range
 ```bash
-python scraper.py --start-date 2025-11-01 --end-date 2025-12-04
+python scraper.py --start-date 2024-11-01 --end-date 2024-12-04
 ```
 
 ## Automated Updates
@@ -69,21 +69,6 @@ All scraped data is stored in the `data/` directory:
 - `data/hot_100.csv` - Billboard Hot 100 songs
 - `data/billboard_200.csv` - Billboard 200 albums
 
-## Project Structure
-
-```
-Billboard-Streaming-Songs-Datacollector/
-├── scraper.py              # Main scraper script
-├── requirements.txt        # Python dependencies
-├── .github/
-│   └── workflows/
-│       └── weekly_scrape.yml  # GitHub Actions automation
-├── data/
-│   ├── hot_100.csv        # Hot 100 chart data
-│   └── billboard_200.csv  # Billboard 200 chart data
-└── README.md              # This file
-```
-
 ## How It Works
 
 1. Billboard releases new charts every Tuesday
@@ -97,8 +82,3 @@ Billboard-Streaming-Songs-Datacollector/
 - The scraper includes delays between requests to be respectful to Billboard's servers
 - Duplicate entries are automatically filtered out
 - Chart dates are based on Saturday (Billboard's official chart date)
-- Data is appended and deduplicated, so running the scraper multiple times won't create duplicates
-
-## License
-
-This tool is for educational and personal use. The Billboard chart data is owned by Billboard and Luminate (formerly MRC Data/Nielsen Music).

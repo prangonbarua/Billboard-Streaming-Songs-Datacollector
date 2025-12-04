@@ -1,0 +1,44 @@
+name: Weekly Billboard Chart Scraper
+
+on:
+  schedule:
+    # Runs every Wednesday at 00:00 UTC (one day after Billboard releases charts on Tuesday)
+    - cron: '0 0 * * 3'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run scraper
+      run: |
+        python scraper.py --weeks 1
+
+    - name: Configure Git
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+
+    - name: Commit and push changes
+      run: |
+        git add data/
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update Billboard charts - $(date +'%Y-%m-%d')"
+          git push
+        fi
